@@ -1,8 +1,9 @@
 1 . O que é o Git?
 R:Git é um sistema de gerênciamento de versões, trabalha com a função de código aberto sendo assim diversas pessoas podem usar os códigos explícitos como base, ou até aperfeiçoá-los, permite o versionamento de maneira correta e o trabalho em grupo em cima do mesmo projeto e até simultaneamente. Esse sistema é muito importante como controle, como histórico, sabendo que um projeto antes de ter seu produto final ele passa por diversas fases e complementos e essa é a principal causa e utilidade do git, ele evita a perca de informações úteis, e organiza o projeto de maneira que o processo criativo possa ser compreendido por todos os usuários. 
 
-2 . O que é versionamento de
-•
+2 . O que é versionamento de software?
+R: Versionamento de software nada mais é do que as atualizações que atingem o sistema, as versões que vão desde sua criação sendo separadas e armazenadas conforme o processo criativo do software se dá. Passa pelo processo de desenvolvimento, como a criação de um botão ou um input, alterações que são feitas no produto, que na versão passada não estavam no sistema. Como sabemos para termos a versão final de uma aplicação, são desenvolvidas N possibilidades que são inseridas ou removidas do código, então como forma de reduzir ou acabar com o desperdício de um código, que em uma versão pode ser inútil mas futuramente voltará a ser útil, ou mesmo por erro algumas linhas de código apagadas, o versionamento foi implementado e é extremamente importante.
+
 3 . Por que utilizar o Git como controle de versionamento?
 •
 4 . Quais as vantagens do Git
