@@ -12,8 +12,9 @@ E é claro a capacidade, de organizar o versionamento de cada atualização no s
 Esses são alguns motivos para usar o git como sistema de versionamento.
 
 
-4 . Quais as vantagens do Git
-•
+4 . Quais as vantagens do Git?
+R:Controle de versão bastante preciso e organizado proporcionando um projeto limpo e com histórico. Possibilidade do trabalho em grupo, onde várias pessoas podem estar trabalhando no mesmo projeto em máquinas diferentes simultaneamente sem grandes problemas, com organização sem afetar o código. Grande visibilidade, praticamente todo desenvolvedor tem sua conta no github, não só pelo versionamento mas também pelo portfólio que ele cria, pode abrir portas para grandes trabalhos em grandes empresas. Além de armazenar projetos de fácil implantação, pelo armazenamento do histórico do projeto e suas versões, essa evolução gravada, é o que facilita a implantação desses sistemas armazenados no git. 
+
 5 . Qual a importância da utilização do controle de versionamento no
 desenvolvimento de um software?
 •
