@@ -18,5 +18,10 @@ R:Controle de versão bastante preciso e organizado proporcionando um projeto li
 5 . Qual a importância da utilização do controle de versionamento no
 desenvolvimento de um software?
 R:O controle de versão é de extrema importância na criação de qualquer sistema por diversos motivos, mas um dos fatores mais importantes da utilização do versionamento é pela gravação da evolução do sistema, cada commit que é executado, é gravado uma parte da evolução desse sistema. Já pensou se excluíssemos linhas desnecessárias do nosso projeto, e futuramente descobríssemos a utilidade dela? Após salvamento, sem a utilização do versionamento essas linhas seriam irrecuperáveis, mas com o versionamento essas linhas estariam salvas em uma versão anterior que poderiam ser rapidamente recicladas. Além desse grande benefício que o versionamento trás, é importante a organização processual de um sistema, sua evolução e etapas, tanto para você se localizar, quanto para outros entenderem o sistema e quem sabe implantarem o mesmo.
+
 6 . Cite pelo menos três ferramentas de controle de versão e faça um breve
 detalhamento sobre cada uma delas.
+R:Após pesquisa encontrei e escolhi 3 ferramentas para versionamento são elas: CVS, Subversion e TFS.
+Começando com a CVS, é uma tecnologia antiga criada em 1968 comparada com as outras e tem isso como uma desvantagem no mercado, pois existem novas tecnologias com diversas utilidades inovadoras, porém ainda é utilizada por alguns desenvolvedores.
+A Subversion é uma ferramenta muito utilizada pelos desenvolvedores atualmente, e tem como pontos positivos a rápida execução e simplicidade de execução.
+Por ultimo temos a TFS que é mais atualizada no sentido da descentralização, possibilidade do trabalho em grupo e da utilização do SCRUM ou CCMI na gestão dos projetos.
