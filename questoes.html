@@ -1,1 +1,57 @@
-<h1> questoes</h1>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> Questões </title>
+</head>
+
+<body>
+
+<h1> QUESTÕES </h1><hr><br><br><br>
+
+<h3>Para que serve o commit e qual a melhor forma de utilizá lo?</h4><br>
+<h5> O commit é uma função extremamente importante no versionamento, ele possibilita enviar o projeto para o github para ser armazenado da maneira que ele está no momento da execução do commit. Então cada vez que eu insiro no meu código informações importantes, linhas inovadoras/testes que podem ou não ser utilizados na versão final mas que no momento é uma solução, eu devo fazer um commit, para que esteja gravado na evolução do sistema essa possibilidade e para que nenhuma linha seja perdida. Como sabemos o produto final passa por diversas ideias antes de ser finalizado, então é importante salvar cada ideia em uma versão através do commit. </h5><hr>
+
+<h3>Qual a diferença entre commit e push?</h3><br>
+<h5>Muita gente acaba confundindo a funcionalidade do commit, acreditando que ele faz exatamente o que o push faz, mas destrinchando essa dúvida, digamos que o commit leva os arquivos salvos no momento para uma área de transferência, o arquivo fica ali separado esperando uma ultima olhada, e um empurrão para ser postado no github.
+    Esse último passo que chamei de empurrão, que na verdade é a transferência do arquivo da sua máquina para o virtual no github é chamado de push, ele apenas pega os arquivos da área de transferência deixados ali pelo commit e os envia para o github
+    </h5><hr>
+
+<h3>O que é tag?</h3> <br>
+<h5> Tag é uma ferramenta muito utilizada e essencial na utilização do git ela nada mais é do que marcações que utilizamos quando queremos rotular ou nomear alguma versão específica do nosso software.
+    Normalmente é inserido nessa tag a versão do software, que também normalmente é seguido o padrão do versionamento semântico.
+    Sua finalidade também é de controlar as versões geradas, para saber de quando são as versões, de qual commit se trata essa versão, e se for necessário gerar novamente estará mais fácil a localização, para isso é necessário aplicar essa ferramenta de forma lógica e coerente seguindo as normas e apontando corretamente os commits.
+    </h5> <hr>
+ 
+<h3>O que é branch?</h3><br>
+<h5> Em termos de desenvolvimento de software e controle de versão, um branch é uma cópia independente do código-fonte de um projeto. Essa cópia é criada a partir de um ponto específico do repositório principal e permite que os desenvolvedores trabalhem em recursos, correções de bugs ou experimentos sem afetar diretamente o código no branch principal, ou seja alguma ideia inovadora não testada pode seguir por um ramo fora do máster a partir de um ponto do projeto sem mudar a linha principal.
+
+    Os branches são úteis porque permitem o desenvolvimento paralelo e isolado de diferentes funcionalidades ou partes de um projeto. Cada branch pode evoluir separadamente, e, quando o trabalho estiver completo e testado, pode ser mesclado de volta ao branch principal.
+    </h5>    <hr>
+
+<h3>Como resolver possíveis conflitos no Git?</h3>    
+<h5>Primeiramente é necessário identificar o conflito,
+    Quando você tenta mesclar ou fazer um pull de uma ramificação para outra e há um conflito, o Git irá avisá-lo.
+    Abra o arquivo indicado no conflito em um editor de texto. O Git irá sinalizar as áreas em conflito no arquivo com marcações especiais, como <<<<<<<, =======, e >>>>>>>.
+    Para resolver o conflito, você precisa decidir qual versão do código deseja manter ou criar uma nova versão combinando as alterações. Isso envolve editar o arquivo para remover as marcações do Git e deixar o código no estado desejado.
+    Você pode optar por manter o código da ramificação atual, o código da outra ramificação ou uma combinação dos dois, dependendo dos requisitos do projeto.
+    Após resolver o conflito, salve o arquivo com as alterações feitas.
+    Após resolver o conflito, você precisa adicionar as alterações ao índice do Git e fazer um commit das alterações.
+    Se você estava resolvendo um conflito de mesclagem, após cometer as alterações, finalize a mesclagem com o comando git merge --continue.
+    Depois de resolver todos os conflitos e concluir a mesclagem ou o pull, você pode continuar a trabalhar normalmente no projeto.
+    
+    
+    </h5> <hr>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
